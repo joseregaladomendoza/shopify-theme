@@ -1,0 +1,6 @@
+# system files and folders
+node_modules/
+.DS_Store
+
+# ignored 'settings_data.json'
+shopify/config/settings_data.json
