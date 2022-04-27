@@ -1,2 +1,2 @@
 # shopify-theme
-Shopify Theme Development
+Shopify Theme Development Mini Cart
